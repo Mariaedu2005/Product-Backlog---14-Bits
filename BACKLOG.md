@@ -11,14 +11,14 @@ Ferramentas: Power BI, Excel, Google Colab(para tratamento).
 ## 🧩 Épico 1 — Coleta e Tratamento de Dados
 
 ### 🧱 História 1.1
-**Como analista**, quero **coletar dados de exportação e importação do setor aeronáutico** para que o dashboard utilize informações reais e atualizadas.  
+**Como gestor**, quero **coletar dados de exportação e importação do setor aeronáutico** para que o dashboard utilize informações reais e atualizadas.  
 **Critérios de aceitação:**
 - Fontes de dados identificadas (ex: MDIC, Comex Stat, IBGE, etc.)
 - Dados brutos armazenados em formato `.csv` ou `.xlsx` no repositório
 - Documentação da origem e data da coleta
 
 ### 🧱 História 1.2
-**Como desenvolvedora**, quero **tratar e limpar os dados** para garantir que as informações estejam consistentes e sem duplicidade.  
+**Como gestor**, quero **tratar e limpar os dados** para garantir que as informações estejam consistentes e sem duplicidade.  
 **Critérios de aceitação:**
 - Dados padronizados (nomes, unidades, datas)
 - Remoção de inconsistências e valores nulos
@@ -45,13 +45,7 @@ Ferramentas: Power BI, Excel, Google Colab(para tratamento).
 **Como gestor**, quero **comparar o desempenho por cidade ou estado** para identificar regiões líderes na produção.  
 **Critérios de aceitação:**
 - Mapa interativo ou gráfico de barras por estado  
-- Legenda clara e unidades padronizadas  
-
-### 🧱 História 2.4
-**Como analista**, quero **baixar relatórios resumidos em PDF/Excel** com os dados filtrados no dashboard.  
-**Critérios de aceitação:**
-- Botão de exportação funcional  
-- Arquivo gerado contém data e filtros aplicados  
+- Legenda clara e unidades padronizadas 
 
 ---
 
@@ -89,5 +83,5 @@ Ferramentas: Power BI, Excel, Google Colab(para tratamento).
 
 ---
 
-## 🗂️ Organização do Repositório (Sugestão)
+
 
