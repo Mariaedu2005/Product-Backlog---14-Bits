@@ -3,9 +3,8 @@
 ## 🧭 Contexto do Projeto
 Este projeto tem como objetivo desenvolver um **dashboard interativo** que apresente dados de **exportação e importação do setor aeronáutico brasileiro**, permitindo que o cliente visualize indicadores, tendências e insights estratégicos.
 
-Metodologia: **Scrum**  
-Repositório: GitHub  
-Ferramentas sugeridas: Power BI, Excel, Python (para tratamento), ou Streamlit.
+Metodologia: **Scrum** 
+Ferramentas: Power BI, Excel, Google Colab(para tratamento).
 
 ---
 
