@@ -43,50 +43,42 @@ Ferramentas: Power BI, Excel, Google Colab(para tratamento).
 - Atualizar informações do gráfico
 
 ### 🧱 História 2.2
-**Como gestor**, quero **adicionar indicadores** mostrando os principais compradores da Embraer e o porquê a Escandinava  
+**Como gestor**, quero **adicionar indicadores** mostrando os principais compradores da Embraer e qual a finalidade das aeronaves vendidas para a Escandinava
 **Critérios de aceitação:**
-- Gráficos de linha ou barras com período selecionável  
-- Filtros por ano, país e tipo de produto aeronáutico  
+- Gráficos intuitivos 
+- Campo que responda a finalidade das aeronaves fornecidas a Escandinava
 
 ### 🧱 História 2.3
-**Como gestor**, quero **comparar o desempenho por cidade ou estado** para identificar regiões líderes na produção.  
+**Como gestor**, quero **adicionar um mapa mundi** para mostrar as regiões que estamos tratando
 **Critérios de aceitação:**
-- Mapa interativo ou gráfico de barras por estado  
-- Legenda clara e unidades padronizadas 
-
+- Mapa interativo
+- Legenda clara
+  
 ---
 
-## ⚙️ Épico 3 — Infraestrutura e Integração
+## ⚙️ Sprint 3 — Finalização
 
 ### 🧱 História 3.1
-**Como equipe de desenvolvimento**, quero **armazenar o código e os dados em um repositório GitHub** para controle de versão e colaboração.  
+**Como gestor**, quero **aprimorar o dashboard** de acordo com as orientações do cliente.  
 **Critérios de aceitação:**
-- Repositório criado e estruturado (`/data`, `/scripts`, `/dashboard`, `/docs`)  
-- README explicando objetivo e instruções de uso  
+- Dashboard final entregue com todos os KPIs
+- Funcionamento de gráficos para análise dos resultados
 
 ### 🧱 História 3.2
-**Como cliente**, quero **acessar a versão online do dashboard** sem precisar instalar programas.  
+**Como gestor**, quero **entregar o relátorio final** com todas as etapas feitas. 
 **Critérios de aceitação:**
-- Dashboard publicado no Power BI Service / GitHub Pages / Streamlit  
-- Link funcional documentado no README  
+- Link de do repositório no GitHub.
+- Arquivo do relatório em modelo cumprindo a norma ABNT
 
 ---
 
-## 🧠 Épico 4 — Apresentação e Entrega Final
+## 🧠 Feira de Soluções — Apresentação
 
 ### 🧱 História 4.1
 **Como cliente**, quero **assistir à apresentação do projeto** mostrando o funcionamento do dashboard e os principais insights.  
 **Critérios de aceitação:**
-- Slides ou vídeo demonstrativo criados  
-- Script de apresentação preparado  
+- Slides demonstrativo criados
 - Conclusões apresentadas com base nos dados  
-
-### 🧱 História 4.2
-**Como equipe**, quero **registrar todo o processo no GitHub** para demonstrar a aplicação da metodologia Scrum.  
-**Critérios de aceitação:**
-- Issues criadas para cada história de usuário  
-- Milestones correspondendo às sprints  
-- Histórico de commits limpo e organizado  
 
 ---
 
