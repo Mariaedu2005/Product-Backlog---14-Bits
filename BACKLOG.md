@@ -1,10 +1,11 @@
 # ✈️ Product Backlog – Dashboard de Exportação e Importação do Setor Aeronáutico
 
-## 🧭 Contexto do Projeto
-Este projeto tem como objetivo desenvolver um **dashboard interativo** que apresente dados de **exportação e importação do setor aeronáutico brasileiro**, permitindo que o cliente visualize indicadores, tendências e insights estratégicos.
+## 🧭 Sobre o Projeto
+Este projeto tem como objetivo desenvolver um **dashboard interativo** que apresente dados da **cadeia produtiva do setor aeronáutico brasileiro**, permitindo que o cliente visualize indicadores e insights.
 
 Metodologia: **Scrum** 
-Ferramentas: Power BI, Excel, Google Colab(para tratamento).
+
+Ferramentas: Power BI, Excel, Google Colab (para tratamento dos dados).
 
 ---
 
