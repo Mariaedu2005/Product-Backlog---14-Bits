@@ -8,35 +8,42 @@ Ferramentas: Power BI, Excel, Google Colab(para tratamento).
 
 ---
 
-## 🧩 Épico 1 — Coleta e Tratamento de Dados
+## 🧩 Sprint 1 — Coleta e Tratamento de Dados
 
 ### 🧱 História 1.1
 **Como gestor**, quero **coletar dados de exportação e importação do setor aeronáutico** para que o dashboard utilize informações reais e atualizadas.  
 **Critérios de aceitação:**
-- Fontes de dados identificadas (ex: MDIC, Comex Stat, IBGE, etc.)
+- Fontes de dados identificadas (Comex Stat)
 - Dados brutos armazenados em formato `.csv` ou `.xlsx` no repositório
-- Documentação da origem e data da coleta
+- Documentação da coleta
 
 ### 🧱 História 1.2
 **Como gestor**, quero **tratar e limpar os dados** para garantir que as informações estejam consistentes e sem duplicidade.  
 **Critérios de aceitação:**
-- Dados padronizados (nomes, unidades, datas)
+- Dados padronizados
 - Remoção de inconsistências e valores nulos
-- Código/script de tratamento documentado
+- Achar codígos sh4 do setor aeronáutico
+
+  ### 🧱 História 1.3
+  **Como gestor**, quero **desenvolver um dashboard** com o indicador de exportação com filtros e gráficos de visualização.
+  **Critérios de aceitação:**
+  - Gráficos formatados
+  - Filtros de dados por produto/cidade
+  - Gráficos mostrando dados do Vale do Paraiba
 
 ---
 
-## 📊 Épico 2 — Desenvolvimento do Dashboard
+## 📊 Sprint 2 — Desenvolvimento
 
 ### 🧱 História 2.1
-**Como cliente**, quero **visualizar indicadores gerais** (total exportado e importado, saldo comercial, países parceiros principais) para entender o panorama do setor.  
+**Como cliente**, quero **visualizar o indicador de exportação** através dos anos.
 **Critérios de aceitação:**
-- KPIs visíveis na tela inicial  
-- Atualização automática com nova base de dados  
-- Design limpo e responsivo  
+- Usar gráfico de linhas com eixo x mostrando os anos e eixo y mostrando os valores 
+- Acrescentar os dados dos produtos em Kg
+- Atualizar informações do gráfico
 
 ### 🧱 História 2.2
-**Como usuário**, quero **ver gráficos de evolução temporal** das exportações e importações ao longo dos anos.  
+**Como gestor**, quero **adicionar indicadores** mostrando os principais compradores da Embraer e o porquê a Escandinava  
 **Critérios de aceitação:**
 - Gráficos de linha ou barras com período selecionável  
 - Filtros por ano, país e tipo de produto aeronáutico  
