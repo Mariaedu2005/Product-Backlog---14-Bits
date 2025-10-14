@@ -1,4 +1,4 @@
-# ✈️ Product Backlog – Dashboard de Exportação e Importação do Setor Aeronáutico
+# ✈️ Product Backlog – Dashboard da cadeia produtiva do Setor Aeronáutico
 
 ## 🧭 Sobre o Projeto
 Este projeto tem como objetivo desenvolver um **dashboard interativo** que apresente dados da **cadeia produtiva do setor aeronáutico brasileiro**, permitindo que o cliente visualize indicadores e insights.
