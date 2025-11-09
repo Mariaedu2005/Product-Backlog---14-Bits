@@ -38,17 +38,22 @@ Tem como missão contribuir para a compreenção dos indicadores de perfomance e
 
 ## Sprint 1: Tratamento dos Dados de Exportação
 <img width="902" height="446" alt="image" src="https://github.com/user-attachments/assets/ed5b98c2-d528-479a-bd88-f0198c85b6a1" />
+
 <img width="898" height="429" alt="image" src="https://github.com/user-attachments/assets/6f62bb73-45a3-4949-bf16-df382193ad75" />
+
 [Apresentação](https://fatecspgov-my.sharepoint.com/:b:/r/personal/joyce_honorio_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/14%20BITS-%20SPRINT%201.pdf?csf=1&web=1&e=83gtHb)
 
 ## Sprint 2: Análise e pesquisa
 <img width="665" height="383" alt="image" src="https://github.com/user-attachments/assets/21ac5140-9535-4d44-832e-6b8c8960f185" />
+
 Análise:
 
 <img width="721" height="413" alt="image" src="https://github.com/user-attachments/assets/0fe9357c-b554-441f-b8f6-f0bd897cde54" />
+
 Análise:
 
 <img width="764" height="465" alt="image" src="https://github.com/user-attachments/assets/689911d0-18b6-4af8-a1d1-c5c7fabd08ca" />
+
 Análise:
 
 ## Sprint 3: 
