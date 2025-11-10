@@ -25,12 +25,12 @@ Ferramentas: Power BI, Excel, Google Colab (para tratamento dos dados).
 - Remoção de inconsistências e valores nulos
 - Achar codígos sh4 do setor aeronáutico
 
-  ### 🧱 História 1.3
-  **Como gestor**, quero **desenvolver um dashboard** com o indicador de exportação com filtros e gráficos de visualização.
-  **Critérios de aceitação:**
-  - Gráficos formatados
-  - Filtros de dados por produto/cidade
-  - Gráficos mostrando dados do Vale do Paraiba
+### 🧱 História 1.3
+**Como gestor**, quero **desenvolver um dashboard** com o indicador de exportação com filtros e gráficos de visualização.
+**Critérios de aceitação:**
+- Gráficos formatados
+- Filtros de dados por produto/cidade
+- Gráficos mostrando dados do Vale do Paraiba
 
 ---
 
@@ -44,10 +44,10 @@ Ferramentas: Power BI, Excel, Google Colab (para tratamento dos dados).
 - Atualizar informações do gráfico
 
 ### 🧱 História 2.2
-**Como gestor**, quero **adicionar indicadores** mostrando os principais compradores da Embraer e qual a finalidade das aeronaves vendidas para a Escandinava
+**Como gestor**, quero **adicionar indicadores** mostrando os principais países que importam produtos 8802 e 8803 do Brasil.
 **Critérios de aceitação:**
 - Gráficos intuitivos 
-- Campo que responda a finalidade das aeronaves fornecidas a Escandinava
+- Campo que responda 
 
 ### 🧱 História 2.3
 **Como gestor**, quero **adicionar um mapa mundi** para mostrar as regiões que estamos tratando
