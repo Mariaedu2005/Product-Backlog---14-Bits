@@ -50,16 +50,16 @@ Tem como missão contribuir para a compreenção dos indicadores de perfomance e
 # Imagem 1
 <img width="781" height="372" alt="image" src="https://github.com/user-attachments/assets/1b5da6ca-859f-46e9-b795-2c41795bf5bc" />
 
-Análise: O gráfico mostra um setor altamente relevante em valor, com uma participação expressiva nas exportações brasileiras. O crescimento até 2024 indica forte demanda internacional por aeronaves completas e veículos espaciais. Há uma queda significativa no ano de 2025 pois ainda n está concluído.
+Análise: Em 2024, o volume exportado atingiu aproximadamente 797 mil kg, totalizando cerca de US$ 545 milhões, o que demonstra a forte demanda internacional por componentes aeronáuticos. Observa-se uma tendência de crescimento até 2024, refletindo o bom desempenho do setor. A aparente redução em 2025 deve-se ao fato de que os dados do ano ainda não estão completos.
 
 <img width="778" height="414" alt="image" src="https://github.com/user-attachments/assets/52e720b6-b421-48eb-a9b7-6010bd34f13d" />
 
-Análise: Mostra componentes e peças como partes estruturais, sistemas e equipamentos. Apesar de um volume físico menor, o valor agregado por kg é ainda alto, o que reforça a sofisticação tecnológica.
+Análise: O gráfico evidencia as exportações brasileiras de outros veículos aéreos (SH4 8802), que incluem helicópteros, aviões e veículos espaciais. Embora o volume exportado seja relativamente reduzido (cerca de 12 mil kg), o valor total atinge aproximadamente US$ 13,6 bilhões, demonstrando o elevado valor agregado por quilograma. Isso reflete o alto nível de sofisticação tecnológica e complexidade industrial desses produtos, que têm grande relevância estratégica para o setor aeroespacial nacional.
 
 # Imagem 2
 <img width="781" height="378" alt="image" src="https://github.com/user-attachments/assets/19d89337-d409-4628-8b11-3844d5d3c236" />
 
-Análise: São José dos Campos domina as exportações, com crescimento contínuo até 2024, e Jacareí e Taubaté apresentam valores muito menores, praticamente estáveis, sem grandes variações.
+Análise: São José dos Campos lidera as exportações do setor aeronáutico no Vale do Paraíba, com crescimento consistente entre 2021 e 2024, atingindo o pico em 2024 antes de uma leve queda em 2025. Já Jacareí e Taubaté registram valores significativamente menores e praticamente estáveis ao longo do período, sem variações expressivas.
 
 <img width="785" height="384" alt="image" src="https://github.com/user-attachments/assets/3c8493be-f971-4df1-aed9-81736db3be16" />
 
