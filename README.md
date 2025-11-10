@@ -37,6 +37,9 @@ Tem como missão contribuir para a compreenção dos indicadores de perfomance e
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1: Tratamento dos Dados de Exportação
+
+<img width="664" height="285" alt="image" src="https://github.com/user-attachments/assets/278364c3-76f5-4374-bd09-ac6ec18e906d" />
+
 <img width="902" height="446" alt="image" src="https://github.com/user-attachments/assets/ed5b98c2-d528-479a-bd88-f0198c85b6a1" />
 
 <img width="898" height="429" alt="image" src="https://github.com/user-attachments/assets/6f62bb73-45a3-4949-bf16-df382193ad75" />
