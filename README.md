@@ -1,9 +1,9 @@
-# Jogos de Empresa- PI ---14-Bits
+# 📊 Jogos de Empresa- PI ---14-Bits
 
 Template para os projetos do curso de graduação em Gestão da Produção Empresarial.
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver Competências como a documentação de projeto ágil, lógica de programação básica e matemática, estatística aplicada e probabilidade e introdução à gestão de produção industrial. 
 
-# Índice
+# 📋​ Índice
 
 * Backlog do Produto
 * [Projeto (API)](#projeto-api)
@@ -14,19 +14,19 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver Competências
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Projeto (Jogos de Empresa- PI)
+# 🧾​ Projeto (Jogos de Empresa- PI)
   Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 15/09/2025	 | concluido |
-|Sprint 01 | 06/10/2025 | concluido |[Ver Relatório](https://fatecspgov-my.sharepoint.com/:w:/r/personal/maria_nascimento50_fatec_sp_gov_br/Documents/Relat%C3%B3rio%20sprint%201%20-%2014%20bits.docx?d=wfed99e27c0414764be8e6c5ebc7b8a88&csf=1&web=1&e=HFjh63)
-|Sprint 02|  10/11/2025 | em progresso |[Ver Relatório](.)
-|Sprint 03|  24/11/2025 | em breve |[Ver Relatório](.)
-|Apresentação Cavali| 01/12/2025 | em breve |
-|Feira de Soluções| 04/12/2025 | em breve |
+|Kick Off | 15/09/2025	 | ✅​ concluido |
+|Sprint 01 | 06/10/2025 | ✅​ concluido |[Ver Relatório](https://fatecspgov-my.sharepoint.com/:w:/r/personal/maria_nascimento50_fatec_sp_gov_br/Documents/Relat%C3%B3rio%20sprint%201%20-%2014%20bits.docx?d=wfed99e27c0414764be8e6c5ebc7b8a88&csf=1&web=1&e=HFjh63)
+|Sprint 02|  10/11/2025 | 🕐​ em progresso |[Ver Relatório](.)
+|Sprint 03|  24/11/2025 | 🕐​ em breve |[Ver Relatório](.)
+|Apresentação Cavali| 01/12/2025 | 🕐​ em breve |[Ver Relatório](.)
+|Feira de Soluções| 04/12/2025 | 🕐​ em breve |[Ver Relatório](.)
 
 > Possível status: em breve, em progresso e concluído.
 
@@ -36,7 +36,7 @@ Tem como missão contribuir para a compreenção dos indicadores de perfomance e
 
 # Funcionalidades e Demonstrações das Sprints
 
-## Sprint 1: Tratamento dos Dados de Exportação
+## ​📗​ Sprint 1: Tratamento dos Dados de Exportação
 
 <img width="664" height="285" alt="image" src="https://github.com/user-attachments/assets/278364c3-76f5-4374-bd09-ac6ec18e906d" />
 
@@ -46,7 +46,7 @@ Tem como missão contribuir para a compreenção dos indicadores de perfomance e
 
 [Apresentação](https://fatecspgov-my.sharepoint.com/:b:/r/personal/joyce_honorio_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/14%20BITS-%20SPRINT%201.pdf?csf=1&web=1&e=83gtHb)
 
-## Sprint 2: Análise e pesquisa
+## ​📖​ Sprint 2: Análise e pesquisa
 # Imagem 1
 <img width="781" height="372" alt="image" src="https://github.com/user-attachments/assets/1b5da6ca-859f-46e9-b795-2c41795bf5bc" />
 
@@ -113,17 +113,17 @@ Análise: As exportações são fortemente direcionadas para países desenvolvid
 ## Sprint 3 
 > Atividades relizadas nesta sprint.
       
-Em breve
+🕐 Em breve
 
 ## Apresentação Cavali 
 > Atividades relizadas nesta sprint.
       
-Em breve
+🕐 Em breve
 
 ## Feira de Soluções
 > Atividades relizadas nesta sprint.
       
-Em breve
+🕐 Em breve
 
 # Competências desenvolvidas
 > Competências adquiridas e desenvolvidas pela equipe
@@ -160,7 +160,7 @@ Em breve
 </details>
 
 
-# Autores
+# 🖋️​ Autores
 Conecte-se com a nossa equipe!
 | Função | Nome | Contato |
 | :--- | :--- | :--- |
