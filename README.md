@@ -45,26 +45,27 @@ Tem como missão contribuir para a compreenção dos indicadores de perfomance e
 
 ## Sprint 2: Análise e pesquisa
 # imagem 1
-<img width="850" height="404" alt="image" src="https://github.com/user-attachments/assets/7db0ab35-811c-4a4f-87bd-b713be69a4ee" />
+<img width="781" height="372" alt="image" src="https://github.com/user-attachments/assets/1b5da6ca-859f-46e9-b795-2c41795bf5bc" />
 
-> Análise:
+> Análise: O gráfico mostra um setor altamente relevante em valor, com uma participação expressiva nas exportações brasileiras. O crescimento até 2024 indica forte demanda internacional por aeronaves completas e veículos espaciais. Há uma queda significativa no ano de 2025 pois ainda n está concluído.
 
-<img width="951" height="458" alt="image" src="https://github.com/user-attachments/assets/c9a8c8e5-ec5a-4c39-81f2-30f32e09021d" />
+<img width="778" height="414" alt="image" src="https://github.com/user-attachments/assets/52e720b6-b421-48eb-a9b7-6010bd34f13d" />
 
-> Análise:
+> Análise: Mostra componentes e peças como partes estruturais, sistemas e equipamentos. Apesar de um volume físico menor, o valor agregado por kg é ainda alto, o que reforça a sofisticação tecnológica.
 
 # imagem 2
-<img width="781" height="378" alt="image" src="https://github.com/user-attachments/assets/41785962-5f68-44ae-99f0-746066f671eb" />
+<img width="781" height="378" alt="image" src="https://github.com/user-attachments/assets/19d89337-d409-4628-8b11-3844d5d3c236" />
 
-> Análise:
+> Análise: São José dos Campos domina as exportações, com crescimento contínuo até 2024, e Jacareí e Taubaté apresentam valores muito menores, praticamente estáveis, sem grandes variações.
 
-<img width="824" height="388" alt="image" src="https://github.com/user-attachments/assets/8726650b-9fa1-4072-9f4f-47b66dbf46ff" />
+<img width="785" height="384" alt="image" src="https://github.com/user-attachments/assets/3c8493be-f971-4df1-aed9-81736db3be16" />
 
-> Análise:
+> Análise: São José dos Campos novamente lidera, mas com valores bem menores que no primeiro gráfico, provavelmente porque aqui são produtos específicos, há queda acentuada de 2021 para 2022 em todas as cidades. Outras cidades (Cruzeiro, Guaratinguetá, Jacareí, Taubaté) têm participação quase irrelevante.
 
-<img width="764" height="465" alt="image" src="https://github.com/user-attachments/assets/689911d0-18b6-4af8-a1d1-c5c7fabd08ca" />
+# imagem 3
+<img width="787" height="374" alt="image" src="https://github.com/user-attachments/assets/b0d66790-7703-478b-a00a-24154781fcd3" />
 
-> Análise:
+> Análise: As exportações são fortemente direcionadas para países desenvolvidos (EUA e Europa), mas há presença em mercados emergentes (África e Ásia). São José dos Campos e Gavião Peixoto são polos estratégicos, provavelmente ligados à Embraer e fornecedores.
 
 ## Sprint 3: 
 ...
@@ -101,9 +102,9 @@ Tem como missão contribuir para a compreenção dos indicadores de perfomance e
 
 - [x] Correção de erros do BAcklog e Dashboard
 - [x] Novo Backlog
-- [X] Pesquisa e Análise de resultados 
+- [X] Análise de resultados 
 - [x] Apresentação
-- [x] Relatório
+- [ ] Relatório
 
 ## Sprint 3 
 > Atividades relizadas nesta sprint.
