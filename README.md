@@ -44,17 +44,27 @@ Tem como missão contribuir para a compreenção dos indicadores de perfomance e
 [Apresentação](https://fatecspgov-my.sharepoint.com/:b:/r/personal/joyce_honorio_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/14%20BITS-%20SPRINT%201.pdf?csf=1&web=1&e=83gtHb)
 
 ## Sprint 2: Análise e pesquisa
-<img width="665" height="383" alt="image" src="https://github.com/user-attachments/assets/21ac5140-9535-4d44-832e-6b8c8960f185" />
+# imagem 1
+<img width="850" height="404" alt="image" src="https://github.com/user-attachments/assets/7db0ab35-811c-4a4f-87bd-b713be69a4ee" />
 
-Análise:
+> Análise:
 
-<img width="721" height="413" alt="image" src="https://github.com/user-attachments/assets/0fe9357c-b554-441f-b8f6-f0bd897cde54" />
+<img width="951" height="458" alt="image" src="https://github.com/user-attachments/assets/c9a8c8e5-ec5a-4c39-81f2-30f32e09021d" />
 
-Análise:
+> Análise:
+
+# imagem 2
+<img width="781" height="378" alt="image" src="https://github.com/user-attachments/assets/41785962-5f68-44ae-99f0-746066f671eb" />
+
+> Análise:
+
+<img width="824" height="388" alt="image" src="https://github.com/user-attachments/assets/8726650b-9fa1-4072-9f4f-47b66dbf46ff" />
+
+> Análise:
 
 <img width="764" height="465" alt="image" src="https://github.com/user-attachments/assets/689911d0-18b6-4af8-a1d1-c5c7fabd08ca" />
 
-Análise:
+> Análise:
 
 ## Sprint 3: 
 ...
