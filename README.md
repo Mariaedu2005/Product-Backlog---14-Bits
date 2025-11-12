@@ -23,7 +23,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 15/09/2025	 | ✅​ concluido |
 |Sprint 01 | 06/10/2025 | ✅​ concluido |[Ver Relatório](https://fatecspgov-my.sharepoint.com/:w:/r/personal/maria_nascimento50_fatec_sp_gov_br/Documents/Relat%C3%B3rio%20sprint%201%20-%2014%20bits.docx?d=wfed99e27c0414764be8e6c5ebc7b8a88&csf=1&web=1&e=HFjh63)
-|Sprint 02|  10/11/2025 | 🕐​ em progresso |[Ver Relatório]([Relatório Sprint 2.docx](https://github.com/user-attachments/files/23488246/Relatorio.Sprint.2.docx)
+|Sprint 02|  10/11/2025 | 🕐​ em progresso |[Ver Relatório](https://github.com/user-attachments/files/23488246/Relatorio.Sprint.2.docx)
 )
 |Sprint 03|  24/11/2025 | 🕐​ em breve |[Ver Relatório](.)
 |Apresentação Cavali| 01/12/2025 | 🕐​ em breve |[Ver Relatório](.)
