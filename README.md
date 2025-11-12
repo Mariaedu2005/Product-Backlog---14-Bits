@@ -30,7 +30,7 @@ Sprint | Previsão | Status| Histórico|
 
 > Possível status: em breve, em progresso e concluído.
 
-# Funcionalidades e Demonstrações das Sprints
+# ⚙️​ Funcionalidades e Demonstrações das Sprints
 
 ## ​📗​ Sprint 1: Tratamento dos Dados de Exportação
 
@@ -115,7 +115,7 @@ OBS: Apresentamos o Github para o nosso Orientador Rubens barreto e Cliente inte
 ## Feira de Soluções
 ...
 
-## 🧰 Tecnologias especificas/Apoio
+# 🧰 Tecnologias especificas/Apoio
 * ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 * ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 * ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)
@@ -143,7 +143,7 @@ OBS: Apresentamos o Github para o nosso Orientador Rubens barreto e Cliente inte
 - [x] Novo Backlog
 - [X] Análise de resultados 
 - [x] Apresentação
-- [ ] Relatório
+- [x] Relatório
 
 ## Sprint 3 
 > Atividades relizadas nesta sprint.
@@ -160,7 +160,7 @@ OBS: Apresentamos o Github para o nosso Orientador Rubens barreto e Cliente inte
       
 🕐 Em breve
 
-# Competências desenvolvidas
+# ✨ Competências desenvolvidas
 > Competências adquiridas e desenvolvidas pela equipe
 
 ## Hard Skill (saber tecnológico)
