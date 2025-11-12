@@ -93,7 +93,7 @@ Análise: São José dos Campos lidera as exportações do setor aeronáutico no
 
 Análise: São José dos Campos novamente lidera, mas com valores bem menores que no primeiro gráfico, provavelmente porque aqui são produtos específicos, há queda acentuada de 2021 para 2022 em todas as cidades. Outras cidades (Cruzeiro, Guaratinguetá, Jacareí, Taubaté) têm participação quase irrelevante.
 
-### 🕐​ Imagem 3
+### Imagem 3
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b0d66790-7703-478b-a00a-24154781fcd3" width="800" alt="Gráfico de Exportação">
