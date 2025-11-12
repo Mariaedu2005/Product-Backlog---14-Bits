@@ -28,7 +28,7 @@ Sprint | Previsão | Status| Histórico|
 |Apresentação Cavali| 01/12/2025 | ![Em breve](https://img.shields.io/badge/Status-Em%20Breve-yellow) |[Ver Relatório](.)
 |Feira de Soluções| 04/12/2025 | ![Em breve](https://img.shields.io/badge/Status-Em%20Breve-yellow) |[Ver Relatório](.)
 
-> Possível status: em breve, em progresso e concluído.
+> Possível status: Em breve e Concluído.
 
 # ⚙️​ Funcionalidades e Demonstrações das Sprints
 
@@ -56,7 +56,7 @@ Criação de uma nova empresa para realizar as tarefas deste semestre.
 </p>
 
 
-## ​📖​ Sprint 2: Análise e pesquisa
+## ​📘 Sprint 2: Análise e pesquisa
 ### Imagem 1
 
 <p align="center">
@@ -93,7 +93,7 @@ Análise: São José dos Campos lidera as exportações do setor aeronáutico no
 
 Análise: São José dos Campos novamente lidera, mas com valores bem menores que no primeiro gráfico, provavelmente porque aqui são produtos específicos, há queda acentuada de 2021 para 2022 em todas as cidades. Outras cidades (Cruzeiro, Guaratinguetá, Jacareí, Taubaté) têm participação quase irrelevante.
 
-### Imagem 3
+### 🕐​ Imagem 3
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b0d66790-7703-478b-a00a-24154781fcd3" width="800" alt="Gráfico de Exportação">
@@ -106,13 +106,13 @@ Análise: As exportações são fortemente direcionadas para países desenvolvid
 OBS: Apresentamos o Github para o nosso Orientador Rubens barreto e Cliente interno Marcos Vinicius.
 
 
-## Sprint 3: 
+## 📖​ Sprint 3: 
 ...
 
-## Apresentação Cavali
+## 🕐​ Apresentação Cavali
 ...
 
-## Feira de Soluções
+## 🕐​ Feira de Soluções
 ...
 
 # 🧰 Tecnologias especificas/Apoio
@@ -124,7 +124,7 @@ OBS: Apresentamos o Github para o nosso Orientador Rubens barreto e Cliente inte
 * ![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white)
 * ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
 
-## Sprint 1 - Tratamentos dos dados
+## 📗​ Sprint 1 - Tratamentos dos dados
 > Atividades relizadas nesta sprint.
 
 - [x] Análise do setor Aeronáutico
@@ -136,7 +136,7 @@ OBS: Apresentamos o Github para o nosso Orientador Rubens barreto e Cliente inte
 - [x] Apresentação
 - [x] Relatório
 
-## Sprint 2 - Desenvolvimento do Projeto
+## 📘 Sprint 2 - Desenvolvimento do Projeto
 > Atividades relizadas nesta sprint.
 
 - [x] Correção de erros do BAcklog e Dashboard
@@ -145,7 +145,7 @@ OBS: Apresentamos o Github para o nosso Orientador Rubens barreto e Cliente inte
 - [x] Apresentação
 - [x] Relatório
 
-## Sprint 3 
+## ​📖​ Sprint 3 
 > Atividades relizadas nesta sprint.
       
 🕐 Em breve
