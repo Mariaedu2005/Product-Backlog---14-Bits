@@ -1,27 +1,27 @@
 # 📊 Jogos de Empresa- PI ---14-Bits
+**FATEC São José dos Campos – Curso de Gestão da Produção Industrial**
 
 Template para os projetos do curso de graduação em Gestão da Produção Empresarial.
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver Competências como a documentação de projeto ágil, lógica de programação básica e matemática, estatística aplicada e probabilidade e introdução à gestão de produção industrial. 
 
 # 📋​ Índice
 
-* Backlog do Produto
-* [Projeto (API)](#projeto-api)
-* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Backlog do Produto](https://github.com/Mariaedu2005/Product-Backlog---14-Bits/blob/main/BACKLOG.md)
+* [Sobre o Projeto](#sobre-o-projeto)
+*  [Cronograma das Sprints](#cronograma-das-sprints)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
-* [Cronograma das Sprints](#cronograma-das-sprints)
-* [Burndown](#burndown)
+* [Tecnologias Utilizadas](#-tecnologias-específicasapoio)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# 🧾​ Projeto (Jogos de Empresa- PI)
-  Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
+# 🧾​ Sobre o Projeto
+  Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
+  Neste projeto, o obejtivo é desenvolver um portal de consulta com os dados tratados, capaz de ser apresentado em eventos acadêmicos, feirastecnol´gicas e bancas de avaliação.
+Tem como missão contribuir para a compreenção dos indicadores de perfomance em processos produtivos.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 15/09/2025	 | ✅​ Concluido |[Ver Relatório](.)
+|Kick Off | 15/09/2025	 |![Concluído](https://img.shields.io/badge/Status-Concluído-brightgreen) |[Ver Relatório](.)
 |Sprint 01 | 06/10/2025 | ✅​ Concluido |[Ver Relatório](https://github.com/user-attachments/files/23488270/Relatorio.sprint.1.docx)
 |Sprint 02|  10/11/2025 | ✅​ Concluido |[Ver Relatório](https://github.com/user-attachments/files/23488246/Relatorio.Sprint.2.docx)
 |Sprint 03|  24/11/2025 | 🕐​ Em breve |[Ver Relatório](.)
@@ -30,21 +30,19 @@ Sprint | Previsão | Status| Histórico|
 
 > Possível status: em breve, em progresso e concluído.
 
-# Objetivo do projeto
-Neste projeto, o obejtivo é desenvolver um portal de consulta com os dados tratados, capaz de ser apresentado em eventos acadêmicos, feirastecnol´gicas e bancas de avaliação.
-Tem como missão contribuir para a compreenção dos indicadores de perfomance em processos produtivos.
-
 # Funcionalidades e Demonstrações das Sprints
 
 ## ​📗​ Sprint 1: Tratamento dos Dados de Exportação
 
+[Apresentação](https://fatecspgov-my.sharepoint.com/:b:/r/personal/joyce_honorio_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/14%20BITS-%20SPRINT%201.pdf?csf=1&web=1&e=83gtHb)
+
+Criação de uma nova empresa para realizar as tarefas deste semestre.
 <img width="664" height="285" alt="image" src="https://github.com/user-attachments/assets/278364c3-76f5-4374-bd09-ac6ec18e906d" />
 
 <img width="902" height="446" alt="image" src="https://github.com/user-attachments/assets/ed5b98c2-d528-479a-bd88-f0198c85b6a1" />
 
 <img width="898" height="429" alt="image" src="https://github.com/user-attachments/assets/6f62bb73-45a3-4949-bf16-df382193ad75" />
 
-[Apresentação](https://fatecspgov-my.sharepoint.com/:b:/r/personal/joyce_honorio_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/14%20BITS-%20SPRINT%201.pdf?csf=1&web=1&e=83gtHb)
 
 ## ​📖​ Sprint 2: Análise e pesquisa
 # Imagem 1
@@ -69,6 +67,8 @@ Análise: São José dos Campos novamente lidera, mas com valores bem menores qu
 <img width="787" height="374" alt="image" src="https://github.com/user-attachments/assets/b0d66790-7703-478b-a00a-24154781fcd3" />
 
 Análise: As exportações são fortemente direcionadas para países desenvolvidos (EUA e Europa), mas há presença em mercados emergentes (África e Ásia). São José dos Campos e Gavião Peixoto são polos estratégicos, provavelmente ligados à Embraer e fornecedores.
+
+OBS: Apresentamos o Github para o nosso Orientador Rubens barreto e Cliente interno Marcos Vinicius.
 
 
 ## Sprint 3: 
