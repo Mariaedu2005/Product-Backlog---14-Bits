@@ -28,7 +28,7 @@ Sprint | Previsão | Status| Histórico|
 |Apresentação Cavali| 01/12/2025 | ![Em breve](https://img.shields.io/badge/Status-Em%20Breve-yellow) |[Ver Relatório](.)
 |Feira de Soluções| 04/12/2025 | ![Em breve](https://img.shields.io/badge/Status-Em%20Breve-yellow) |[Ver Relatório](.)
 
-> Possível status: Em breve e Concluído.
+> Possível status: Em breve, Em desenvolvimento e Concluído.
 
 # ⚙️​ Funcionalidades e Demonstrações das Sprints
 
