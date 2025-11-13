@@ -24,7 +24,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 15/09/2025	 |![Concluído](https://img.shields.io/badge/Status-Concluído-brightgreen) |[Ver Relatório](.)
 |Sprint 01 | 06/10/2025 | ![Concluído](https://img.shields.io/badge/Status-Concluído-brightgreen) |[Ver Relatório](https://github.com/user-attachments/files/23488270/Relatorio.sprint.1.docx)
 |Sprint 02|  10/11/2025 | ![Concluído](https://img.shields.io/badge/Status-Concluído-brightgreen)  |[Ver Relatório](https://github.com/user-attachments/files/23488246/Relatorio.Sprint.2.docx)
-|Sprint 03|  24/11/2025 | ![Em breve](https://img.shields.io/badge/Status-Em%20Breve-yellow)|[Ver Relatório](.)
+|Sprint 03|  24/11/2025 | ![Em desenvolvimento](https://img.shields.io/badge/Status-Emdesenvolvimento-blue)|[Ver Relatório](.)
 |Apresentação Cavali| 01/12/2025 | ![Em breve](https://img.shields.io/badge/Status-Em%20Breve-yellow) |[Ver Relatório](.)
 |Feira de Soluções| 04/12/2025 | ![Em breve](https://img.shields.io/badge/Status-Em%20Breve-yellow) |[Ver Relatório](.)
 
