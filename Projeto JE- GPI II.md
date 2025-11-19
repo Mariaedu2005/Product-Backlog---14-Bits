@@ -9,7 +9,6 @@
 
 <br>
 <p align="center">
-  
   <a href ="#objetivo-do-projeto">  Objetivo do Projeto </a> | 
   <a href ="#metodologia"> Metodologia </a>  |
   <a href ="tecnologias-utilizadas"> Tecnologias Utilizadas </a> |
