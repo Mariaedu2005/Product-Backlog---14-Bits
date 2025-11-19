@@ -1,12 +1,12 @@
 #  MVP - Sprint 1 📌
 
-## Objetivo do MVP 🎯
+## Objetivo 🎯
 
-O MVP é definido como o desenvolvimento de um dashboard de dados de exportação e importação, filtrados por código sh4 do setror aeronáutico, mostrando KPI´s e análises desses dados tratados, para mostrar possíveis tendências e análises de vendas.
+O objetivo é definido como o desenvolvimento de um dashboard de dados de exportação, filtrados por código sh4 do setror aeronáutico e análises desses dados tratados, para mostrar possíveis tendências e análises de vendas para o exterior.
 
 ## Descrição da Solução 📝 
 
-Será desenvolvido o tratamento da base de dados para dar início ao dashboard onde irá mostrar dados de exportação e análises do setor.
+Será desenvolvido o tratamento da base de dados (Comex stat) para dar início ao dashboard onde irá mostrar dados de exportação e análises do setor aeronáutico.
 
 ### Funcionalidades principais incluídas
 - Dados filtrados por código sh4
