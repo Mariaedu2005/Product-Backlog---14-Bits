@@ -51,15 +51,20 @@ Sprint | Previsão | Status | Relátório |
 ## Backlog das Sprints 📋
 | Atividades | User Story | Prioridade | Estimativa | Critérios | Sprint |
 |----|------------|------------|-------------|--------|-----------|
-| 1 | Como **gerente de operações**, quero acessar, baixar e analisar e dados de exportação do setor aeronáutico do Comex Stat via Colab, para iniciar minhas próprias análises. | Alta | 6h | Fonte dos dados;armazenamento de dados brutos em formato `.csv` ou `.xlsx` no repositório e Documentaçao da coleta. | Sprint 1 |
-| 2 | Como **gerente de operações**, quero que os dados estejam tratados/normalizados e limpos (sem duplicados e nulos), para garantir consistência nas análises. | Alta | 6h | Dados padornizados, remoção de inconsistencias e valores nulos e achar códigos sh4 do setor aeronáutico. |  Sprint 1 |
+| 1 | Como **gerente de operações**, quero acessar, baixar e analisar e dados de exportação do setor aeronáutico do Comex Stat via Colab, para iniciar minhas próprias análises. | Alta | 6h | Fonte dos dados; armazenamento de dados brutos em formato `.csv` ou `.xlsx` no repositório e Documentaçao da coleta. | Sprint 1 |
+| 2 | Como **gerente de operações**, quero que os dados estejam tratados/normalizados e limpos (sem duplicados e nulos), para garantir consistência nas análises. | Alta | 6h | Dados padornizados, remoção de inconsistencias e valores nulos e achar códigos sh4 do setor aeronáutico. | Sprint 1 |
 | 3 | Como **gerente de operações**, quero mostrar um portal digital interativo visualizando indicadores de exportação com filtros e gráficos. | Alta | 4h | Gráficos formatados e filtros de dados por produto/cidade. | Sprint 1 |
-| 4 | Como **cliente**, quero visualizar o indicador de exportação atráves dos anos. | Alta | 6h | Usar gráfico de linha, acrescentar os dados dos produtos em kg. |Sprint 2 |
-| 5 | Como **gerente de operações**, quero aplicar novos indicadores/filtros mostrando os principais países que importam produtos 8802 e 8803 do Brasil. | Média | 4h |Gráficos intuitivos e Campos que responda. | Sprint 2 |
-| 6 | Como **gerente de operações**, quero adicionar um mapa mundi para mostrar as regiões que estamos tratando. | Alta | 5h | Mapa interativo e legenda clara. | Sprint 2 |
-| 7 | Como **gerente de operações**, quero . | Alta | 5h | Sprint 3 |
-| 8 | Como **cliente interno**, quero assistir à apresentação do projeto mostrando o funcionamento do dashboard e os principais insights. | Alta | 5h | dados tratados e conclusões a serem apresentadas. | Feira de soluções |
-| 8 | Como **cliente externo**, quero assistir à apresentação do projeto mostrando o funcionamento do dashboard e os principais insights. | Alta | 5h | dados tratados e conclusões a serem apresentadas. | Apresentação final |
+| 4 | Como **coordenador de planejamento**, quero criar uma nova pagína para o projeto no github. | Média-baixa | 2h | Criar pagina e ter acesso as informações desenvolvidas. | Sprint 1 |
+| 5 | Como **cliente interno**, quero visualizar o indicador de exportação atráves dos anos. | Alta | 6h | Usar gráfico de linha, acrescentar os dados dos produtos em kg. | Sprint 2 |
+| 6 | Como **gerente de operações**, quero aplicar novos indicadores/filtros mostrando os principais países que importam produtos 8802 e 8803 do Brasil. | Média | 4h | Gráficos intuitivos e Campos que responda. | Sprint 2 |
+| 7 | Como **gerente de operações**, quero adicionar um mapa mundi para mostrar as regiões que estamos tratando. | Alta | 5h | Mapa interativo e legenda clara. | Sprint 2 |
+| 8 | Como **coordenador de planejamento**, quero atualizar a pagína do projeto no github. | Média-baixa | 3h | Ter acesso as informações desenvolvidas. | Sprint 2 |
+| 9 | Como **gerente de operações**, quero aprimorar o mapa que indica a análise dos paíoses que exportam algum produto do setor aeronautico. | Média | ... | Atualizar mapa interativo e legenda. | Sprint 3 |
+| 10 | Como **gerente de operações**, quero adicionar um gráfico que mostre a tendência dos dados de exportação. | Média | ... | Atualizar mapa interativo e legenda. | Sprint 3 |
+| 11 | Como **gerente de operações**, quero finalizar o github com todos os dados do projeto. | Alta | 8h | Conclusão do github e apresentação do mesmo. | Sprint 3 |
+| 12 | Como **coordenador de planejamento**, quero atualizar a pagína do projeto no github de acordo com as . | Média-baixa | 3h | Ter acesso as informações desenvolvidas. | Sprint 3 |
+| 13 | Como **cliente interno**, quero assistir à apresentação do projeto mostrando o funcionamento do dashboard e os principais insights desenvolvidos. | Alta | ... | Dados tratados e conclusões a serem apresentadas. | Feira de soluções |
+| 14 | Como **cliente externo**, quero assistir à apresentação do projeto mostrando o funcionamento do dashboard e os principais insights desenvolvidos. | Alta | ... | Dados tratados e conclusões a serem apresentadas. | Apresentação final |
 
 <br>
 
