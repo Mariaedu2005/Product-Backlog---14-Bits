@@ -14,14 +14,16 @@
 <br>
 
 # Objetivo do Projeto
-  O obejtivo é desenvolver um portal de consulta com os dados tratados, capaz de ser apresentado em eventos acadêmicos, feirastecnol´gicas e bancas de avaliação.
-  Tem como missão contribuir para a compreenção dos indicadores de perfomance em processos produtivos do setor aeronautico.
+  O objetivo deste trabalho é desenvolver um **portal de consulta** baseado em dados previamente tratados e organizados, apto a ser apresentado em eventos acadêmicos, feiras tecnológicas e bancas de avaliação. 
+  O portal tem como missão apoiar a **compreensão e a análise de indicadores de desempenho** relacionados aos processos produtivos do setor aeronáutico, oferecendo uma visualização acessível, estruturada e voltada à tomada de decisão
 
 <br>
 
 # Metodologia 
-  * Utilização da Metodologia Scrum para organização das tarefas da equipe no projeto.
-  * Elaboração de Backlog.
+* Utilização da Metodologia Scrum para organização das tarefas da equipe no projeto.
+* Elaboração do Backlog do Produto e divisão em Backlogs de Sprint.
+* Distribuição otimizada das atividades entre os membros da equipe.
+* Registro das atividades no github.
 
 <br>
 
