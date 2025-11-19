@@ -59,10 +59,10 @@ Sprint | Previsão | Status | Relátório |
 | 6 | Como **gerente de operações**, quero aplicar novos indicadores/filtros mostrando os principais países que importam produtos 8802 e 8803 do Brasil. | Média | 4h | Gráficos intuitivos e Campos que responda. | Sprint 2 |
 | 7 | Como **gerente de operações**, quero adicionar um mapa mundi para mostrar as regiões que estamos tratando. | Alta | 5h | Mapa interativo e legenda clara. | Sprint 2 |
 | 8 | Como **coordenador de planejamento**, quero atualizar a pagína do projeto no github. | Média-baixa | 3h | Ter acesso as informações desenvolvidas. | Sprint 2 |
-| 9 | Como **gerente de operações**, quero aprimorar o mapa que indica a análise dos paíoses que exportam algum produto do setor aeronautico. | Média | ... | Atualizar mapa interativo e legenda. | Sprint 3 |
-| 10 | Como **gerente de operações**, quero adicionar um gráfico que mostre a tendência dos dados de exportação. | Média | ... | Atualizar mapa interativo e legenda. | Sprint 3 |
-| 11 | Como **coordenador de planejamento**, quero finalizar o relatório final com todos os dados do projeto. | Alta | ... | ter concluído todas as modificações e atualização no dashboard e apresentações. | Sprint 3 |
-| 12 | Como **coordenador de planejamento**, quero finalizar a pagína do projeto no github de acordo com as exigências do cliente. | Média-baixa | ... | Ter acesso as informações desenvolvidas e concluidas. | Sprint 3 |
+| 9 | Como **gerente de operações**, quero aprimorar o mapa que indica a análise dos paíoses que exportam algum produto do setor aeronautico. | Média | 4h | Atualizar mapa interativo e legenda. | Sprint 3 |
+| 10 | Como **gerente de operações**, quero adicionar um gráfico que mostre a tendência dos dados de exportação. | Média | 3h | Atualizar mapa interativo e legenda. | Sprint 3 |
+| 11 | Como **coordenador de planejamento**, quero finalizar o relatório final com todos os dados do projeto. | Alta | 6h | ter concluído todas as modificações e atualização no dashboard e apresentações. | Sprint 3 |
+| 12 | Como **coordenador de planejamento**, quero finalizar a pagína do projeto no github de acordo com as exigências do cliente. | Média-baixa | 8h | Ter acesso as informações desenvolvidas e concluidas. | Sprint 3 |
 | 13 | Como **cliente interno**, quero assistir à apresentação do projeto mostrando o funcionamento do dashboard e os principais insights desenvolvidos. | Alta | ... | Dados tratados e conclusões a serem apresentadas. | Feira de soluções |
 | 14 | Como **cliente externo**, quero assistir à apresentação do projeto mostrando o funcionamento do dashboard e os principais insights desenvolvidos. | Alta | ... | Dados tratados e conclusões a serem apresentadas. | Apresentação final |
 
