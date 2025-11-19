@@ -8,15 +8,14 @@
 </p>
 
 <br>
-
 <p align="center">
   
-  <a href ="#objetivo-do-projeto">  Objetivo do Projeto </a>  | 
+  <a href ="#objetivo-do-projeto">  Objetivo do Projeto </a> | 
   <a href ="#metodologia"> Metodologia </a>  |
-  <a href ="tecnologias-utilizadas"> Tecnologias Utilizadas </a>  |
-  <a href ="#sprints"> Sprints </a>  |
-  <a href ="#backlog-das-sprints"> Backlog das sprints </a>  | 
-  <a href ="#autores"> Autores </a>  |
+  <a href ="tecnologias-utilizadas"> Tecnologias Utilizadas </a> |
+  <a href ="#sprints"> Sprints </a> |
+  <a href ="#backlog-das-sprints"> Backlog das sprints </a> | 
+  <a href ="#autores"> Autores </a> |
 </p>
 
 <br>
